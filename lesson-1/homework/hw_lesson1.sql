@@ -1,7 +1,7 @@
 --- HOMEWORK QUERY---
 
 
-/*
+
 
 #1
 Data - Raw facts or figures that have no meaning on their own.
@@ -70,7 +70,6 @@ TCL - Transaction Control Language - Manage Transaction - begin transaction, com
 
  8. After successful restoration, the AdventureWorks2022 database appeared under Databases in Object Explorer.
 
-*/
 
 
 create database SchoolDB
